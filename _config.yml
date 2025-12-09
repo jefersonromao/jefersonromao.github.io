@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Jeferson Romão"
 title_separator          : "-"
@@ -24,9 +24,9 @@ repository               : "jefersonromao/jefersonromao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jeferson Romão"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor de Inglês | Especialista em Psicopedagogia"
   location         : "Salvador, Bahia"
   employer         : # "Red Brick University"
   uri              : # URL
