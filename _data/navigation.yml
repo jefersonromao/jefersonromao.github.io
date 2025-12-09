@@ -14,3 +14,6 @@ main:
     
   - title: "Currículo"
     url: /cv/
+
+- title: "Contato"
+    url: /contact/
